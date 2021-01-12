@@ -1,9 +1,6 @@
 first = input("Calculator: ")
 
-if first == "+" or "-" or "/" or "*":
-    print("ERROR: Please specify an operation. e.g. 1 + 1")
-
-elif "+" in first:
+if "+" in first:
     num1, num2 = first.split("+")
     print(float(num1) + float(num2))
 
