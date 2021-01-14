@@ -22,3 +22,4 @@ This calculator is more "smart" than calculator 1 in the sense that you can type
 Calculator: <enter expression>
 <answer will show here>
 ```
+Both calculators have error handlers
