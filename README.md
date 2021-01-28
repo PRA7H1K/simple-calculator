@@ -24,7 +24,6 @@ This calculator is more "smart" than calculator 1 in the sense that you can type
 Calculator: <enter expression>
 <answer will show here>
 ```
-Both calculators have error handlers
 
 # C# Calculator
 
@@ -39,4 +38,5 @@ Second Number: <enter second number>
 <answer will show here>
 ```
 
-This calculator has error handlers
+
+All the calculators have error handlers
