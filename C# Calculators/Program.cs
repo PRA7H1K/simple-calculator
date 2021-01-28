@@ -21,22 +21,34 @@ namespace Console_App
 
             if (op == "+")
             {
-                Console.WriteLine(num1 + num2);
+                double answer = num1 + num2;
+                Console.WriteLine($"Answer: {answer}");
             }
 
             else if (op == "-")
             {
-                Console.WriteLine(num1 - num2);
+                double answer = num1 - num2;
+                Console.WriteLine($"Answer: {answer}");
             }
 
             else if (op == "*")
             {
-                Console.WriteLine(num1 * num2);
+                double answer = num1 * num2;
+                Console.WriteLine($"Answer: {answer}");
             }
 
             else if (op == "/")
             {
-                Console.WriteLine(num1 / num2);
+                if (num2 == 0.0) 
+                {
+                    Console.WriteLine("ERROR: Zero Division Error");
+                }
+
+                else 
+                {
+                    double answer = num1 / num2;
+                Console.WriteLine($"Answer: {answer}");
+                }
             }
 
             else

@@ -5,3 +5,10 @@ C:\Users\Internet\Desktop\Programming\Learning\C#\Console App\obj\Debug\Console 
 C:\Users\Internet\Desktop\Programming\Learning\C#\Console App\obj\Debug\Console App.csproj.CoreCompileInputs.cache
 C:\Users\Internet\Desktop\Programming\Learning\C#\Console App\obj\Debug\Console App.exe
 C:\Users\Internet\Desktop\Programming\Learning\C#\Console App\obj\Debug\Console App.pdb
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\obj\Debug\Console App.csprojAssemblyReference.cache
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\obj\Debug\Console App.csproj.CoreCompileInputs.cache
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\obj\Debug\Console App.exe
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\obj\Debug\Console App.pdb
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\bin\Debug\Console App.exe.config
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\bin\Debug\Console App.exe
+C:\Users\Internet\Desktop\Programming\Calculator\simple-calculator\C# Calculators\bin\Debug\Console App.pdb
