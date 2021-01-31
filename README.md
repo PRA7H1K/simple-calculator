@@ -26,6 +26,7 @@ Calculator: <enter expression>
 ```
 
 # C# Calculator
+To get the C# calculator, you can either get it with git or you can download the Console App.exe file located in C# Calculators / Bin / 
 
 ## C# Calculator 1
 This calculator is very similar to the Python calculator 1.
