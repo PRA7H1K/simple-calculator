@@ -5,7 +5,7 @@ To get a copy of this code, do the following command:
 
 # Python Calculators
 
-## Python Calculator 1
+## Python (Calculator 1)[https://github.com/PRA7H1K/simple-calculator/blob/main/Python%20Calculators/calculator_1.py]
 This calculator has more lines of code but is less "smart" than calculator 2.
 
 ### Example:
