@@ -16,7 +16,7 @@ Second Number: <enter second number>
 <answer will show here>
 ```
 
-## Python Calculator 2
+## Python [Calculator 2](https://github.com/PRA7H1K/simple-calculator/blob/main/Python%20Calculators/calculator_2.py)
 This calculator is more "smart" than calculator 1 in the sense that you can type the whole expression in 1 line instead of breaking it down to multiple lines as shown in calculator 1.
 
 ### Example:
@@ -28,7 +28,7 @@ Calculator: <enter expression>
 # C# Calculator
 To get the C# calculator, you can either get it with git or you can download the Console App.exe file located in __C# Calculators / Bin / Debug__
 
-## C# Calculator 1
+## C# [Calculator 1](https://github.com/PRA7H1K/simple-calculator/blob/main/C#%20Calculators/program.cs)
 This calculator is very similar to the Python calculator 1.
 
 ### Example:
